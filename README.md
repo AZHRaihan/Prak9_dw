@@ -7,11 +7,12 @@ Tugas
 5. Lampirkan printscreen halaman web kalian.
 
 HTML
-•	<div id="slider">...</div>: Ini adalah container untuk slider gambar. Setiap gambar di dalam slider ditempatkan di sini.
-•	<img src="..." alt="...">: Ini adalah tag untuk menampilkan gambar dalam HTML. Setiap gambar memiliki atribut src yang berisi URL gambar dan atribut alt yang berisi teks alternatif untuk aksesibilitas.
-•	<div id="slider-controls">...</div>: Ini adalah container untuk kontrol slider. Kontrol ini berupa bullet points atau elemen yang digunakan untuk mengganti gambar pada slider.
-•	<span class="slider-control" data-index="0">1</span>: Ini adalah salah satu kontrol slider. Setiap span ini mewakili satu gambar pada slider. Atribut data-index digunakan untuk menunjukkan indeks gambar yang terkait.
-•	<script src="./script.js"></script>: Ini adalah tag untuk menyertakan file JavaScript. File script.js berisi kode JavaScript yang mengendalikan perilaku slider.
+•	div id="slider">...</div>: Ini adalah container untuk slider gambar. Setiap gambar di dalam slider ditempatkan di sini.
+•	img src="..." alt="...">: Ini adalah tag untuk menampilkan gambar dalam HTML. Setiap gambar memiliki atribut src yang berisi URL gambar dan atribut alt yang berisi teks alternatif untuk aksesibilitas.
+•	div id="slider-controls">...</div>: Ini adalah container untuk kontrol slider. Kontrol ini berupa bullet points atau elemen yang digunakan untuk mengganti gambar pada slider.
+•	span class="slider-control" data-index="0">1</span>: Ini adalah salah satu kontrol slider. Setiap span ini mewakili satu gambar pada slider. Atribut data-index digunakan untuk menunjukkan indeks gambar yang terkait.
+•	script src="./script.js"></script>: Ini adalah tag untuk menyertakan file JavaScript. File script.js berisi kode JavaScript yang mengendalikan perilaku slider.
+
 
 CSS
 1.	#slider
