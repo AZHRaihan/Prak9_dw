@@ -7,6 +7,7 @@ Tugas
 5. Lampirkan printscreen halaman web kalian.
 
 HTML
+
 •	div id="slider">...</div>: Ini adalah container untuk slider gambar. Setiap gambar di dalam slider ditempatkan di sini.
 
 •	img src="..." alt="...">: Ini adalah tag untuk menampilkan gambar dalam HTML. Setiap gambar memiliki atribut src yang berisi URL gambar dan atribut alt yang berisi teks alternatif untuk aksesibilitas.
@@ -20,6 +21,7 @@ HTML
 
 CSS
 1.	#slider
+
 •	margin: Menetapkan margin di atas dan bawah dan secara otomatis menentukan margin kiri dan kanan agar slider berada di tengah.
 
 •	position: Mengatur posisi elemen.
@@ -71,8 +73,9 @@ CSS
 •	.active: Mengatur tampilan kontrol saat aktif.
 
 JavaScript
-•	Saat halaman dimuat, event listener untuk 'DOMContentLoaded' diaktifkan
-.
+
+•	Saat halaman dimuat, event listener untuk 'DOMContentLoaded' diaktifkan.
+
 •	Variabel current digunakan untuk melacak indeks gambar yang sedang ditampilkan.
 
 •	NodeList images dan controls menyimpan elemen-elemen gambar dan kontrol dari DOM.
